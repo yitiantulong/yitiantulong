@@ -1,105 +1,157 @@
-# 杜化
+# Hua Du
 
-**民族：** 汉族 ｜ **政治面貌：** 预备党员 ｜ **专业：** 网络空间安全  
-**电话：** 188 3631 7235 ｜ **邮箱：** duhua3@mail2.sysu.edu.cn  
-**GitHub：** https://github.com/yitiantulong  
+I am an undergraduate student at the **School of Cyber Science and Technology, Sun Yat-sen University**, majoring in **Cybersecurity**.
 
----
+My current interests lie in **AI for cybersecurity, retrieval-augmented generation, large language model applications, time series forecasting, and intelligent security analysis systems**.
 
-## 教育背景
+I am particularly interested in applying artificial intelligence methods to real-world problems, including security assessment, knowledge-based question answering, and data-driven forecasting.
 
-### 中山大学 ｜ 网络空间安全学院 本科  
-**2023.09 至今**
-
-- 学业成绩：90.6/100
-- GPA：3.9/4.0
-- 专业排名：13/118（前 11%）
-- 主要课程：
-  - 深度学习（98）
-  - 统计分析方法（100）
-  - 离散数学（94）
-  - 线性代数（95）
-  - 高等数学（96）
-  - 数据结构与算法（92）
-  - 网络空间安全导论（94）
+- GitHub: [https://github.com/yitiantulong](https://github.com/yitiantulong)
+- Email: duhua3@mail2.sysu.edu.cn
 
 ---
 
-## 科创经历
+## About Me
 
-### 基于不完备需求信号修正的生鲜零售需求预测研究  
-**2025.08 - 2025.12**  
-**指导老师：** 沈力副教授
+I am currently pursuing my undergraduate degree in Cybersecurity at Sun Yat-sen University. I have a solid foundation in mathematics, programming, and cybersecurity.
 
-- 针对生鲜零售销量预测中存在的数据量不足、数据非平稳、高噪声等问题，设计并实现了一套时序预测方案。
-- 构建多模型预测框架，结合多种预测策略，提升小样本条件下的预测精度与模型稳定性。
-- 作为主要负责人，负责子模型库构建、Glocal-IB 与目标数据集 frn-50k 的适配。
-- 完成数据集插补工作，并参与相关专利撰写。
+During my undergraduate studies, I have participated in several research and engineering projects related to **RAG, large language models, time series forecasting, automotive cybersecurity, and intelligent question answering systems**.
 
-### 基于多模态输入和混合智能的汽车 TARA 分析方法及系统  
-**2024.09 - 2025.06**
-
-- 针对智能网联汽车威胁分析与风险评估（TARA）流程人工成本高、效率低的问题，设计并实现基于多模态大模型的自动化 TARA 分析平台。
-- 融合 RAG（检索增强生成）与图神经网络攻击路径推演算法，实现从单点威胁识别到系统级攻击链分析的智能化安全评估。
-- 作为主要成员，负责 RAG 知识增强模块的设计与实现。
-- 构建汽车安全领域知识库，并参与一项相关专利申请。
-
-### 基于 RAG 和 LLM 的非遗智慧问答平台  
-**2025.06 - 2025.07**
-
-- 作为主要完成人，参与完成软件著作权项目：  
-  **《非遗万象——基于 RAG 和 LLM 的非遗智慧问答平台 V1.0》**
-- 负责基于 RAG 与大语言模型的问答平台设计与实现，支持非遗相关知识的智能检索与问答。
+My long-term interest is to explore the intersection of artificial intelligence and cybersecurity, especially how large language models and intelligent algorithms can be used to solve complex, practical, and security-critical problems in a reliable and efficient way.
 
 ---
 
-## 荣誉奖项
+## Research Interests
 
-- **第一届产学结合高效通用人工智能大赛**  
-  国家级 第二名 ｜ 2026.02  
-  项目：基于大模型的时序预测
-
-- **第二十六届中国机器人及人工智能大赛全国总决赛**  
-  国家级 二等奖 ｜ 2025.08  
-  项目：基于 RAG 和 LLM 的非遗智慧问答平台
-
-- **2024 全国大学生数学竞赛（广东赛区）**  
-  省部级 三等奖 ｜ 2024.11
-
-- **2025 全国大学生数学建模比赛（广东赛区）**  
-  省部级 三等奖 ｜ 2025.09
-
-- 奇安信奖学金
-- 中山大学优秀学生二等奖学金
-- 中山大学道德风尚专项奖学金
-- 中山大学科研竞赛专项奖学金
+- Large Language Models
+- Retrieval-Augmented Generation
+- AI for Cybersecurity
+- Time Series Forecasting
+- Automotive Cybersecurity and TARA
+- Knowledge-enhanced Intelligent Systems
+- Multimodal AI Applications
 
 ---
 
-## 学生工作与社会实践
+## Education
 
-- 担任中山大学网络空间安全学生会秘书部副部长。
-- 担任团委理论学习部干事。
-- 积极参与志愿服务活动，累计志愿时长超过 300 小时。
-- 获评：
-  - 中山大学优秀学生助理
-  - 中山大学优秀寒招志愿者
-  - 广东二星志愿者
+### Sun Yat-sen University  
+**B.Eng. in Cybersecurity**  
+*September 2023 – Present*
 
----
-
-## 科研技能
-
-- **编程语言：** 熟悉 Python、C++ 等编程语言。
-- **人工智能与数据分析：** 具备深度学习、时序预测、RAG、LLM 应用开发经验。
-- **网络安全：** 熟悉网络空间安全基础知识，参与过汽车 TARA 安全分析相关项目。
-- **语言能力：** 通过大学英语四、六级，具备英文文献阅读能力。
+- School of Cyber Science and Technology
+- GPA: 3.9 / 4.0
+- Major Ranking: 13 / 118
+- Selected courses:
+  - Deep Learning
+  - Data Structures and Algorithms
+  - Discrete Mathematics
+  - Linear Algebra
+  - Statistical Analysis
+  - Introduction to Cybersecurity
 
 ---
 
-## 个人优势
+## Selected Projects
 
-- 具备扎实的数学、编程与网络空间安全基础。
-- 在人工智能、时序预测、RAG 应用和安全分析方向有较丰富的项目经验。
-- 学习成绩优秀，专业排名位于前 11%。
-- 具有良好的科研实践能力、团队协作能力和学生工作经验。
+### Fresh Retail Demand Forecasting with Incomplete Demand Signals  
+*August 2025 – December 2025*
+
+This project focuses on demand forecasting in fresh retail scenarios, where sales data is often limited, noisy, and highly non-stationary.
+
+I worked on building a multi-model time series forecasting framework and adapting forecasting models to real-world retail datasets. My responsibilities included model library construction, dataset preprocessing and imputation, and model adaptation for the target dataset.
+
+**Keywords:** Time Series Forecasting, Small-sample Learning, Data Imputation, Retail Demand Prediction
+
+---
+
+### Multimodal and Hybrid Intelligence-based Automotive TARA System  
+*September 2024 – June 2025*
+
+This project aims to improve the efficiency of Threat Analysis and Risk Assessment, also known as TARA, for intelligent connected vehicles.
+
+The system combines multimodal large language models, retrieval-augmented generation, and graph-based attack path reasoning to support automated threat identification and system-level attack chain analysis.
+
+I mainly contributed to the design and implementation of the RAG-based knowledge enhancement module and the construction of the domain knowledge base.
+
+**Keywords:** Automotive Cybersecurity, TARA, RAG, Knowledge Base, Attack Path Reasoning
+
+---
+
+### RAG and LLM-based Question Answering Platform for Intangible Cultural Heritage  
+*June 2025 – July 2025*
+
+This project builds an intelligent question answering platform for intangible cultural heritage knowledge using retrieval-augmented generation and large language models.
+
+I participated as a major contributor and helped complete the software copyright project:
+
+**“Feiyi Wanxiang: An Intangible Cultural Heritage Question Answering Platform Based on RAG and LLM V1.0”**
+
+**Keywords:** RAG, LLM, Knowledge QA, Cultural Heritage
+
+---
+
+## Honors and Awards
+
+- **Second Place**, Industry-University Collaborative General Artificial Intelligence Competition, 2026  
+  Project: Time Series Forecasting Based on Large Language Models
+
+- **Second Prize**, National Finals of China Robotics and Artificial Intelligence Competition, 2025  
+  Project: RAG and LLM-based Question Answering Platform for Intangible Cultural Heritage
+
+- **Third Prize**, Guangdong Division of Chinese Mathematics Competitions, 2024
+
+- **Third Prize**, Guangdong Division of National Undergraduate Mathematical Contest in Modeling, 2025
+
+- Qi An Xin Scholarship
+
+- Sun Yat-sen University Outstanding Student Scholarship
+
+- Sun Yat-sen University Moral Excellence Scholarship
+
+- Sun Yat-sen University Research and Competition Scholarship
+
+---
+
+## Skills
+
+### Programming
+
+- Python
+- C++
+
+### Artificial Intelligence and Data
+
+- Deep Learning
+- Time Series Forecasting
+- Retrieval-Augmented Generation
+- Large Language Model Applications
+- Data Preprocessing and Analysis
+
+### Cybersecurity
+
+- Cybersecurity Fundamentals
+- Automotive Cybersecurity
+- Threat Analysis and Risk Assessment
+
+### Languages
+
+- Chinese: Native
+- English: CET-4 / CET-6, able to read technical papers and documentation
+
+---
+
+## Activities and Services
+
+I have served in student organizations at Sun Yat-sen University, including the Student Union and Youth League-related departments.
+
+I also actively participate in volunteer activities and have accumulated over 300 hours of volunteer service. I have been recognized as an outstanding student assistant, outstanding admissions volunteer, and Guangdong two-star volunteer.
+
+---
+
+## Contact
+
+Feel free to reach out if you are interested in research collaboration, project discussion, or academic exchange.
+
+- Email: duhua3@mail2.sysu.edu.cn
+- GitHub: [https://github.com/yitiantulong](https://github.com/yitiantulong)
